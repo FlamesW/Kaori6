@@ -1,10 +1,10 @@
-# Kaori6 - [Aimbot + ESP]
+# Kaori6, Aimbot + ESP
 
 ## Features:
-### Aimbot -> Team Check / Wall Check / Anti Nigga Check / Hit Chance / NPC Support / Auto Shoot / Auto Reload / Auto Dodge / Hit Notifications / Crosshair / Prediction / Slient Aim / Exclusions / Whitelist.
-### Esp -> Team Check / Wall Check / Team Colors / Custom Colors / Health Bar / Distances / Usernames / Tool Names / Tracers.
-### Player -> Flight / Walkspeed / Jumppower / Spin Bot / Inf Jump / X-Ray / Tp Tool / Gravity / Fov / Moderator Detections / Snitch Detections.
-### Settings -> Themes / Config / Keybinds / Shut Down Menu / Shiftlock Supported / Inf Yield / Sigma Spy / Dark Explorer.
+#### Aimbot -> Team Check / Wall Check / Anti Nigga Check / Hit Chance / NPC Support / Auto Shoot / Auto Reload / Auto Dodge / Hit Notifications / Crosshair / Prediction / Slient Aim / Exclusions / Whitelist.
+#### Esp -> Team Check / Wall Check / Team Colors / Custom Colors / Health Bar / Distances / Usernames / Tool Names / Tracers.
+#### Player -> Flight / Walkspeed / Jumppower / Spin Bot / Inf Jump / X-Ray / Tp Tool / Gravity / Fov / Moderator Detections / Snitch Detections.
+#### Settings -> Themes / Config / Keybinds / Shut Down Menu / Shiftlock Supported / Inf Yield / Sigma Spy / Dark Explorer.
 
 ```lua
 local shared, cloneref = shared or getrenv().shared or {},cloneref or function(o) return o end;
