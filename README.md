@@ -48,3 +48,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/Kaori6/home/A
 
 # Preview
 <img width="744" height="629" alt="{4AC64855-D341-4ACF-9A70-DA047CD12F9B}" src="https://github.com/user-attachments/assets/531e0944-5151-4573-8552-679c102ef84c" />
+
+<img width="744" height="629" alt="{6EF10C11-4423-4DFC-AA6E-CFF622A8C633}" src="https://github.com/user-attachments/assets/26fe1092-3719-437f-a5e8-8d4d83fcabb1" />
+
